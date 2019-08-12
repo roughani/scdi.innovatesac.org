@@ -1,0 +1,51 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+// Import custom variables (overrides Bootstrap default variables)
+@import "./variables.scss";
+
+// Import Bootstrap
+@import "./bootstrap/bootstrap.scss";
+
+// Import custom styles
+@import "./global.scss";
+@import "./navbar.scss";
+@import "./masthead.scss";
+@import "./portfolio.scss";
+
+// Modify/add color classes
+
+body {
+  color: $secondary !important;
+}
+
+.btn-light {
+  color: $secondary !important;
+}
+
+.bg-secondary {
+  background-color: $secondary !important;
+}
+
+// Fix card padding
+
+.row.row-grid [class*="col-"] + [class*="col-"] {
+  margin-top: 15px;
+}
+
+@media (min-width: 1200px) {
+  .row.row-grid [class*="col-lg-"] + [class*="col-lg-"] {
+      margin-top: 0;
+  }
+}
+@media (min-width: 992px) {
+  .row.row-grid [class*="col-md-"] + [class*="col-md-"] {
+      margin-top: 0;
+  }
+}
+@media (min-width: 768px) {
+  .row.row-grid [class*="col-sm-"] + [class*="col-sm-"] {
+      margin-top: 0;
+  }
+}
