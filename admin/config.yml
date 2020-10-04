@@ -1,0 +1,5 @@
+backend:
+  name: git-gateway
+  repo: digitalinclusionsac/digitalinclusionsac.org
+  branch: cms-dev # Branch to update (optional; defaults to master)
+media_folder: 'assets/uploads'
