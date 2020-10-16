@@ -5,11 +5,11 @@ backend:
 media_folder: 'assets/uploads'
 
 collections:
-  - name: "sitewide-content"
-    label: "Sitewide Content"
+  - name: "homepage-content"
+    label: "Homepage Content"
     files:
-      - label: "Homepage"
-        name: "homepage"
+      - label: "Text Sections"
+        name: "text-sections"
         file: "_data/sitewide.yml"
         editor:
           preview: false
@@ -19,7 +19,7 @@ collections:
             widget: "string"
           - label: "Website Description"
             name: "description"
-            widget: "string"
+            widget: "text"
   - name: "pages"
     label: "Pages"
     folder: "_pages/"
