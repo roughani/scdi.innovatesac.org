@@ -8,13 +8,8 @@ collections:
   - name: "homepage"
     label: "Homepage"
     files:
-<<<<<<< HEAD
       - label: "Edit Homepage Content"
         name: "text-sections"
-=======
-      - label: "About Website"
-        name: "about-website"
->>>>>>> 7e5fc3a16bae9c2a7e6c3812a80af3f6b006bcca
         file: "_data/homepage.yml"
         editor:
           preview: false
@@ -25,12 +20,6 @@ collections:
           - label: "Website Description"
             name: "description"
             widget: "text"
-      - label: "Fact and Mission"
-        name: "fact-mission"
-        file: "_data/homepage.yml"
-        editor:
-          preview: false
-        fields:
           - label: "Fact Header"
             name: "fact_header"
             widget: "string"
@@ -43,12 +32,6 @@ collections:
           - label: "Mission Description"
             name: "mission_description"
             widget: "text"
-      - label: "Strategies"
-        name: "strategies"
-        file: "_data/homepage.yml"
-        editor:
-          preview: false
-        fields:
           - label: "Strategies Header"
             name: "strategies_header"
             widget: "string"
