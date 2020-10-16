@@ -8,3 +8,7 @@ subtitle: Resources subtitle
 # External Resources
 
 <https://www.cetfund.org/>
+
+
+
+![](/assets/uploads/conduit.bmp "Conduit for fiber optics")
