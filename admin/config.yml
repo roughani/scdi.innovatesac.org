@@ -3,3 +3,27 @@ backend:
   repo: digitalinclusionsac/digitalinclusionsac.org
   branch: cms-dev # Branch to update (optional; defaults to master)
 media_folder: 'assets/uploads'
+
+collections:
+  - name: "sitewide-content"
+    label: "Sitewide Content"
+    files:
+      - label: "Sitewide Content"
+        name: "sitewide"
+        file: "_data/sitewide.yml"
+        fields:
+          - label: "Website Title"
+            name: "title"
+            widget: "string"
+          - label: "Website Description"
+            name: "description"
+            widget: "string"
+  - name: "pages"
+    label: "Pages"
+    folder: "_pages/"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Subtitle", name: "subtitle", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Body", name: "body", widget: "markdown"}
