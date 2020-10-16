@@ -8,7 +8,7 @@ collections:
   - name: "homepage"
     label: "Homepage"
     files:
-      - label: "Text Sections"
+      - label: "Edit Homepage Content"
         name: "text-sections"
         file: "_data/homepage.yml"
         editor:
