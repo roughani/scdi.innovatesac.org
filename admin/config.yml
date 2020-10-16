@@ -5,12 +5,12 @@ backend:
 media_folder: 'assets/uploads'
 
 collections:
-  - name: "homepage-content"
-    label: "Homepage Content"
+  - name: "homepage"
+    label: "Homepage"
     files:
       - label: "Text Sections"
         name: "text-sections"
-        file: "_data/sitewide.yml"
+        file: "_data/homepage.yml"
         editor:
           preview: false
         fields:
