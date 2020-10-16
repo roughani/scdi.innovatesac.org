@@ -11,6 +11,8 @@ collections:
       - label: "Sitewide Content"
         name: "sitewide"
         file: "_data/sitewide.yml"
+        editor:
+          preview: false
         fields:
           - label: "Website Title"
             name: "title"
@@ -22,6 +24,8 @@ collections:
     label: "Pages"
     folder: "_pages/"
     create: true
+    editor:
+      preview: false
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string"}

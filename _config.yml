@@ -2,3 +2,7 @@ title: Sacramento Coalition for Digital Inclusion
 sass:
     sass_dir: _scss
     # style: compressed
+collections:
+  pages:
+    output: true
+    permalink: /:name
