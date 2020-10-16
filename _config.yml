@@ -5,4 +5,5 @@ sass:
 collections:
   pages:
     output: true
+    layout: page
     permalink: /:name
