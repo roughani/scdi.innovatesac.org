@@ -8,8 +8,8 @@ collections:
   - name: "sitewide-content"
     label: "Sitewide Content"
     files:
-      - label: "Sitewide Content"
-        name: "sitewide"
+      - label: "Homepage"
+        name: "homepage"
         file: "_data/sitewide.yml"
         editor:
           preview: false
@@ -27,8 +27,7 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'page' }
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
