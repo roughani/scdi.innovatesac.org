@@ -7,6 +7,8 @@ subtitle: Resources subtitle
 
 # External Resources
 
+National Digital Inclusion Alliance (NDIA)   https://www.digitalinclusion.org/
+
 <https://www.cetfund.org/>
 
 <https://saccity.maps.arcgis.com/apps/View/index.html?appid=90abd5fecb3b4f65b1d29e14976e1e20>
