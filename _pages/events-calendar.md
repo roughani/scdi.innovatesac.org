@@ -11,11 +11,7 @@ November 20, 2020 - 11:00 AM to 12:30 PM
 
 December 18, 2020 - 11:00 AM to 12:30 PM
 
-<!--StartFragment-->
-
  <br>
-
-<!--EndFragment-->
 
 ### **Past SCDI Meeting:**
 
