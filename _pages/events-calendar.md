@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Events/Calendar
-subtitle: Events/Calendar subtitle
+subtitle: Learn About Coalition Events
 ---
 ### **Coming SCDI Meetings:** 
 
