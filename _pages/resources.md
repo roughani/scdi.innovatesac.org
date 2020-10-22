@@ -14,6 +14,8 @@ subtitle: Learn About Digital Inclusion Resources
 ## External Resources
 
 * [National Digital Inclusion Alliance (NDIA) ](https://www.digitalinclusion.org/)  
+* [California Public Utilities Commission (CPUC) - Telecommunications & Broadband](https://www.cpuc.ca.gov/communications/)
+* [California Broadband Council (CBC)](https://broadbandcouncil.ca.gov/)
 * [California Emerging Technology Fund (CETF)](https://www.cetfund.org/)
 * [Connected Capital Area Broadband Consortium (CCABC)](https://www.valleyvision.org/projects/connected-community-initiative/)
 * [CPUC's California Interactive Broadband Map](https://www.broadbandmap.ca.gov/)
@@ -21,4 +23,4 @@ subtitle: Learn About Digital Inclusion Resources
 
 <br>
 
-![](/assets/uploads/conduit.bmp)
+![](/assets/uploads/campaign-creators-ogowdvlbmsc-unsplash.jpg)
