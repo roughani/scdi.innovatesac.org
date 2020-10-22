@@ -23,4 +23,4 @@ subtitle: Learn About Digital Inclusion Resources
 
 <br>
 
-![](/assets/uploads/campaign-creators-ogowdvlbmsc-unsplash.jpg)
+![](/assets/uploads/resources.jpg)
