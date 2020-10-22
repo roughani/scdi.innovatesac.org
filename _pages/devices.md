@@ -6,3 +6,5 @@ subtitle: Hardware Devices subtitle
 The Hardware Devices working group will primarily focus on building a pipeline of technology equipment, such as computers, devices, etc., for ready access to low-income consumers. This availability of free and low-cost computing devices is accomplished through surplus refurbishing and discounted new device programs. Other areas that the working group focuses on are collection of quality devices, device distribution, and funding for refurbishment.
 
 [<< Back to Working Groups](/working-groups)
+
+![](/assets/uploads/john-schnobrich-yfbyvpeghfq-unsplash.jpg)
