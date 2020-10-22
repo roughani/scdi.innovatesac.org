@@ -24,6 +24,8 @@ With the onset of the COVID-19 pandemic in 2020 , the work of the Coalition beca
 
 ### Featured Digital Inclusion Stories
 
+<br>
+
 #### Digital inequity disrupts one’s social, economic, and democratic life
 
 ![](/assets/uploads/digitalequity.jpg)
@@ -31,3 +33,11 @@ With the onset of the COVID-19 pandemic in 2020 , the work of the Coalition beca
 A woman at the North Sacramento workshop has been trying to learn Photoshop and photo editing skills. She wants to do digital photography, but has not had the correct learning opportunity. A staff member with Sacramento Employment Training Agency repeatedly stresses to her clients that résumés created on a smartphone are often inferior to those composed on a full PC. A resident of the Delta continues to run, to his dissatisfaction, his work email from an @frontier.com email address because he cannot figure out how to migrate his email from one service to another. 
 
 These instances, drawn from our workshops, illustrate how skills, hardware and connectivity inequities create digital divisions in the lives of Sacramento community members. The recommended actions proposed in this report seek to address issues like the ones described above, in an inclusive and comprehensive fashion.
+
+#### There are digital equity deserts in Sacramento County
+
+![](/assets/uploads/digitalequitydeserts.jpg)
+
+A person experiencing homelessness in the Del Paso Heights area has his own phone and computer, but he is offline after 9 p.m. because the batteries for all his devices are dead by the late evening. A resident of the Delta is confounded how rural regions of Alaska have better connectivity than he does, so close to the most technologically advanced state’s capital. Children in the Oak Park area spend hundreds of hours online at the local library because that is where the connection to the internet, and therefore the rest of the world, is available to them. Nearly 25 percent of students at Sacramento City College are using mobile devices for homework.
+
+Digital equity deserts exist within Sacramento County. They can be caused by issues like lack of power, lack of internet access or lack of meaningful scaffolds to skills, as described by workshop participants. These deserts are in some cases defined by geographic issues, and in others, follow a person around regardless of their location. True solutions to the issues of digital equity deserts consider the logistics of not only a particular geographic region, but also historical factors related to the particular populations that live in a given region.
