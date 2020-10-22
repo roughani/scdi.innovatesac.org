@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Working Groups
-subtitle: The Three Main Working Groups
+subtitle: Learn About The Three Working Groups
 ---
 # [Digital Literacy/Skills](/digital-skills)
 
