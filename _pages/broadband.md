@@ -7,4 +7,4 @@ The Broadband Access and Adoption working group will focus on supporting the exp
 
 [<< Back to Working Groups](/working-groups)
 
-![](/assets/uploads/leon-seibert-2m71l9fa6mg-unsplash.jpg)
+![](/assets/uploads/bbaccess.jpg)
