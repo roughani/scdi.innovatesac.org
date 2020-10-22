@@ -26,4 +26,8 @@ With the onset of the COVID-19 pandemic in 2020 , the work of the Coalition beca
 
 <br>
 
-![](/assets/uploads/headway-5qgiuubxkwm-unsplash.jpg)
+## Featured Digital Inclusion Stories
+
+<br>
+
+![A woman at the North Sacramento workshop has been trying to learn Photoshop and photo editing skills. She wants to do digital photography, but has not had the correct learning opportunity. A staff member with Sacramento Employment Training Agency repeatedly stresses to her clients that résumés created on a smartphone are often inferior to those composed on a full PC. A resident of the Delta continues to run, to his dissatisfaction, his work email from an @frontier.com email address because he cannot figure out how to migrate his email from one service to another. These instances, drawn from our workshops, illustrate how skills, hardware and connectivity inequities create digital divisions in the lives of Sacramento community members. The recommended actions proposed in this report seek to address issues like the ones described above, in an inclusive and comprehensive fashion. ](/assets/uploads/digitalequity.jpg "Digital inequity disrupts one’s social, economic, and democratic life")
