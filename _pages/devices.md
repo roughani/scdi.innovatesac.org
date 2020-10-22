@@ -7,4 +7,4 @@ The Hardware Devices working group will primarily focus on building a pipeline o
 
 [<< Back to Working Groups](/working-groups)
 
-![](/assets/uploads/domenico-loia-ehtcc9syxsw-unsplash.jpg)
+![](/assets/uploads/hardwaredevices.jpg)
