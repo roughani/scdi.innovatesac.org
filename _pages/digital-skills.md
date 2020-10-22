@@ -7,4 +7,4 @@ The Digital Literacy/Digital Skills working group will advocate for demand drive
 
 [<< Back to Working Groups](/working-groups)
 
-![](/assets/uploads/priscilla-du-preez-nnmba7y1ymk-unsplash.jpg)
+![](/assets/uploads/digitalskills.jpg)
