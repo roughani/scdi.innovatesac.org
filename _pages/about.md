@@ -22,9 +22,9 @@ With the onset of the COVID-19 pandemic in 2020 , the work of the Coalition beca
 
 <br>
 
-## Featured Digital Inclusion Stories
+### Featured Digital Inclusion Stories
 
-### Digital inequity disrupts one’s social, economic, and democratic life
+#### Digital inequity disrupts one’s social, economic, and democratic life
 
 ![](/assets/uploads/digitalequity.jpg)
 
