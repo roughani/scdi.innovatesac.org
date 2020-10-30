@@ -7,8 +7,6 @@ Discussion which formed the beginnings of the Sacramento Coalition for Digital I
 
 With the onset of the COVID-19 pandemic in 2020 , the work of the Coalition became even more important and the need for a funding mechanism to drive forward momentum and staff this increasingly important body of work required an urgent solution.  Valley Vision has been successful in securing short term funding to continue and expand this valuable work through the Morgan Family Foundation and Union Bank, on behalf of community partners and stakeholders.
 
-![](/assets/uploads/logos.jpg)
-
 **Sacramento Coalition for Digital Inclusion Steering Committee:**
 
 * Aubrey Taylor, City of Sacramento
@@ -21,6 +19,8 @@ With the onset of the COVID-19 pandemic in 2020 , the work of the Coalition beca
 * Renee John, Valley Vision
 * Dr. David Espinoza, Valley Vision
 * Jesse Flores, Valley Vision
+
+![](/assets/uploads/alllogos.png)
 
 <br>
 
