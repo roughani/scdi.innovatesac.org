@@ -5,7 +5,7 @@ subtitle: Learn About Digital Inclusion Events
 ---
 ### **Coming Events:** 
 
-* **May 21, 2021 - 11:00 AM to 12:30 PM PDT.** Sacramento Coalition for Digital Inclusion Monthly Meeting. Register here:
+* **May 21, 2021 - 11:00 AM to 12:30 PM PDT.** Sacramento Coalition for Digital Inclusion Monthly Meeting. [Click here to register!](https://us02web.zoom.us/meeting/register/tZUtdeGhpzwoGtUy0VnftFbaAdj0p19YB3Bt)
 
  <br>
 
