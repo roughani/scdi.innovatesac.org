@@ -19,10 +19,6 @@ subtitle: Learn About Digital Inclusion Events
 
 **January 15, 2021 - Sacramento Coalition for Digital Inclusion: January Monthly Meeting**                                   [January Monthly Meeting Notes](https://www.valleyvision.org/wp-content/uploads/SCDI-Monthly-Meeting-Notes-1.22.21.pdf)
 
-<!--StartFragment-->
-
-<**br**>
-
-<!--EndFragment-->
+ <br>
 
 **Monthly meeting materials prior to 2021 are available upon request. Please reach out to Caitlin Blockus, Project Associate at Valley Vision, for additional materials at: caitlin.blockus@valleyvision.org**
