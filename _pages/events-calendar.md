@@ -5,11 +5,15 @@ subtitle: Learn About Digital Inclusion Events
 ---
 ### **Coming Events:** 
 
-* **May 21, 2021 - 11:00 AM to 12:30 PM PDT.** Sacramento Coalition for Digital Inclusion Monthly Meeting. [Click here to register!](https://us02web.zoom.us/meeting/register/tZUtdeGhpzwoGtUy0VnftFbaAdj0p19YB3Bt)
+* **June 18, 2021 - 11:00 AM to 12:30 PM PDT.** Sacramento Coalition for Digital Inclusion Monthly Meeting. [Click here to register!](https://us02web.zoom.us/meeting/register/tZYsce-gqDkuHtS1Bjh6zvnpW5vjZbD_lrUI?_x_zm_rtaid=7c1BFhzbRXW-Rpe9DJ1Q5w.1622242126859.6f931edd2e231c2a6999d0f224bafbb5&_x_zm_rhtaid=21)
 
  <br>
 
 ### **Past Events:**
+
+**May 21, 2021 - Sacramento Coalition for Digital Inclusion: May Monthly Meeting**
+
+* [May Meeting Notes](https://www.valleyvision.org/wp-content/uploads/SCDI-Meeting-Notes-5-21-21-Fin.docx.pdf)
 
 **April 16, 2021 - Sacramento Coalition for Digital Inclusion: April Monthly Meeting**
 
