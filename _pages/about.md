@@ -7,9 +7,9 @@ Discussion which formed the beginnings of the Sacramento Coalition for Digital I
 
 With the onset of the COVID-19 pandemic in 2020, the work of the Coalition became even more important and the need for a funding mechanism to drive forward momentum and staff this increasingly important body of work required an urgent solution.  Valley Vision has been successful in securing funding to continue and expand this valuable work through the Capital Region Workforce Boards, on behalf of community partners and stakeholders.
 
-![](/assets/uploads/logos.jpg)
+![](/assets/uploads/scdi-logos.png)
 
-![](/assets/uploads/logos.jpg)
+![](/assets/uploads/wf-board-logos.png)
 
 **Sacramento Coalition for Digital Inclusion Steering Committee:**
 
