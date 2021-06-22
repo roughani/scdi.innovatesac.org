@@ -37,4 +37,4 @@ subtitle: Learn About Digital Inclusion Events
 
  <br>
 
-**The Sacramento Coalition for Digital Inclusion began meeting monthly in September of 2020. Monthly meeting materials prior to 2021 are available upon request. Please reach out to Caitlin Blockus, Project Associate at Valley Vision, for additional materials at: caitlin.blockus@valleyvision.org**
+**The Sacramento Coalition for Digital Inclusion began meeting monthly in September of 2020. Monthly meeting materials prior to 2021 are available upon request. Please reach out to Caitlin Blockus, Project Associate at Valley Vision, for meeting recordings and additional materials at: caitlin.blockus@valleyvision.org**
