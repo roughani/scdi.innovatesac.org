@@ -20,7 +20,7 @@ With the onset of the COVID-19 pandemic in 2020, the work of the Coalition becam
 * Tamara Armstrong, Los Rios Community College District
 * Dr. Yvonne Harris, California State University Sacramento
 * Coleen Morehead, Clear Strategies LLC
-* Trish Kelly, Valley Vision, Managing Director
+* Trish Kelly, Valley Vision
 * Renee John, Valley Vision
 * Dr. David Espinoza, Valley Vision
 * Caitlin Blockus, Valley Vision
