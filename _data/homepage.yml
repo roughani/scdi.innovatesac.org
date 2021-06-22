@@ -3,21 +3,11 @@ description: The Sacramento Coalition for Digital Inclusion is focused on
   creating more opportunities for digital equity in the Greater Sacramento
   Region.
 fact_header: 3 in 4 new jobs require high or medium digital skills
-fact_description: >-
-  But residents of color are underrepresented in these high paying opportunities
-
-
-  371,747 Californian households do not have access to at least 6/1 Mbps internet speeds
-
-  462,429 Californian households do not have access to at least 25/3 Mbps internet speeds
-
-  674,730 Californian households do not have access to at least 100 Mbps internet speeds
-
-  2,214,908 Californian households do not subscribe to internet service of at least 6/1 Mbps
-mission_header: Together, we're developing a Digital Inclusion Plan for Sacramento
-mission_description: The SCDI Plan will focus on specific outputs that target
-  identified community needs and create meaningful technology opportunities in
-  the lives of our region’s residents.
+fact_description: But residents of color are underrepresented in these high paying opportunities
+mission_header: Together, we have developed a Digital Inclusion Plan for Sacramento
+mission_description: This 2021 Action Plan focuses on specific outputs targeted
+  to community needs to make measurable progress in ensuring full digital
+  inclusion for our region's residents.
 strategies_header: Our Strategies
 strategy_one: Broadband Access & Adoption
 strategy_one_detail: Enhanced public computing labs and awareness of low-cost
@@ -29,6 +19,7 @@ strategy_three: Digital Skills
 strategy_three_detail: Increased learning opportunities for youth, adults, and
   seniors through relevant training programs
 coalition_header: Join the Coalition
-coalition_description: SCDI is led by the City of Sacramento, the Sacramento
-  Public Library, Valley Vision, Los Rios Community College District, and
-  California State University Sacramento.
+coalition_description: >
+  SCDI is led by the City of Sacramento, the Sacramento Public Library, Capital
+  Region Workforce Boards, Valley Vision, Los Rios Community College District,
+  California State University Sacramento, and Clear Strategies LLC.
