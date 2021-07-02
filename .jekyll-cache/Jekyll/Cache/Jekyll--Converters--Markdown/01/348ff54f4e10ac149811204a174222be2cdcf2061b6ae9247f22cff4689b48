@@ -1,15 +1,21 @@
----
-layout: page
-title: Working Groups
-subtitle: Learn About The Three Working Groups
----
+I"<div class="row">
+  <div class="col-md-4 text-center">
 
 ## [<i class="fas fa-code"></i> Digital Literacy/Skills](/digital-skills)
+	
+	</div>	
 
-<br>
+  <div class="col-md-4 text-center">
 
 ## [<i class="fas fa-laptop"></i> Hardware Devices](/devices)
 
-<br>
+	</div>
+
+  <div class="col-md-4 text-center">
 
 ## [<i class="fas fa-globe"></i> Broadband Access and Adoption](/broadband)
+
+	</div>
+
+</div>
+:ET

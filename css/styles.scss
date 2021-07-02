@@ -14,6 +14,40 @@
 @import "./masthead.scss";
 @import "./portfolio.scss";
 
+// Increase text size
+
+h2, .h2, h2 > a {
+  font-size: 4rem;
+}
+
+h3, .h3 {
+  font-size: 3.5rem;
+}
+
+h4, .h4 {
+  font-size: 3rem;
+}
+
+h5, .h5 {
+  font-size: 2.5rem;
+}
+
+p, a, li {
+  font-size: x-large;
+  font-weight: 300;
+}
+
+.btn-xl {
+  font-size: 1.5rem;
+}
+
+
+element.style {
+}
+.page-section {
+    padding-bottom: 4rem;
+}
+
 // Modify/add color classes
 
 body {
@@ -51,5 +85,15 @@ body {
 @media (min-width: 768px) {
   .row.row-grid [class*="col-sm-"] + [class*="col-sm-"] {
       margin-top: 0;
+  }
+}
+
+header.masthead {
+  padding-bottom: 5rem;
+  @include media-breakpoint-up(lg) {
+    p {
+      font-size: x-large;
+    }
+    min-height: 50rem;
   }
 }
